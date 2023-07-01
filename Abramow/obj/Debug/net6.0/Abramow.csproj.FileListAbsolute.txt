@@ -1,0 +1,15 @@
+D:\Abramow\Abramow\bin\Debug\net6.0\Abramow.exe
+D:\Abramow\Abramow\bin\Debug\net6.0\Abramow.deps.json
+D:\Abramow\Abramow\bin\Debug\net6.0\Abramow.runtimeconfig.json
+D:\Abramow\Abramow\bin\Debug\net6.0\Abramow.dll
+D:\Abramow\Abramow\bin\Debug\net6.0\Abramow.pdb
+D:\Abramow\Abramow\obj\Debug\net6.0\Abramow.csproj.AssemblyReference.cache
+D:\Abramow\Abramow\obj\Debug\net6.0\Abramow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abramow\Abramow\obj\Debug\net6.0\Abramow.AssemblyInfoInputs.cache
+D:\Abramow\Abramow\obj\Debug\net6.0\Abramow.AssemblyInfo.cs
+D:\Abramow\Abramow\obj\Debug\net6.0\Abramow.csproj.CoreCompileInputs.cache
+D:\Abramow\Abramow\obj\Debug\net6.0\Abramow.dll
+D:\Abramow\Abramow\obj\Debug\net6.0\refint\Abramow.dll
+D:\Abramow\Abramow\obj\Debug\net6.0\Abramow.pdb
+D:\Abramow\Abramow\obj\Debug\net6.0\Abramow.genruntimeconfig.cache
+D:\Abramow\Abramow\obj\Debug\net6.0\ref\Abramow.dll
